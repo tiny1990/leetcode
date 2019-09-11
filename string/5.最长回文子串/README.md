@@ -1,12 +1,6 @@
 # 最长回文子串
 给定一个字符串 s，找到 s 中最长的回文子串。你可以假设 s 的最大长度为 1000。
 
-```go
-func longestPalindrome(s string) string {
-    
-}
-```
-
 示例 1：
 ```
 输入: "babad"
@@ -20,6 +14,13 @@ func longestPalindrome(s string) string {
 输出: "bb"
 
 ```
+
+```go
+func longestPalindrome(s string) string {
+    
+}
+```
+
 ## 解题思路
 动态规划，使用一个二维数组标记[i,j]是不是一个回文串
 
