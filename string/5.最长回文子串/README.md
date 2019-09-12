@@ -33,45 +33,45 @@ step.2 计算
 ```go
 func longestPalindrome(s string) string {
 
-	length := len(s)
-	if length == 0 {
-		return ""
-	}
+    length := len(s)
+    if length == 0 {
+        return ""
+    }
 
-	// init dp status array
-	stats := make([][]bool, length)
-	for i := 0; i < length; i++ {
-		stats[i] = make([]bool, length)
-	}
+    // init dp status array
+    stats := make([][]bool, length)
+    for i := 0; i < length; i++ {
+        stats[i] = make([]bool, length)
+    }
 
-	// step.1 calculate i = i && i == i+1
-	for i := 0; i < length; i++ {
-		stats[i][i] = true
-	}
+    // step.1 calculate i = i && i == i+1
+    for i := 0; i < length; i++ {
+        stats[i][i] = true
+    }
 
-	start := 0
-	max := 1
-	for i := 0; i < length-1; i++ {
-		if s[i:i+1] == s[i+1:i+2] {
-			stats[i][i+1] = true
-			start = i
-			max = 2
-		}
-	}
+    start := 0
+    max := 1
+    for i := 0; i < length-1; i++ {
+        if s[i:i+1] == s[i+1:i+2] {
+            stats[i][i+1] = true
+            start = i
+            max = 2
+        }
+    }
 
-	// step.2 calculate
-	for i := length - 2; i >= 0; i-- {
-		for j := i + 2; j < length; j++ {
-			if stats[i+1][j-1] && s[i:i+1] == s[j:j+1] {
-				stats[i][j] = true
-				if j-i+1 > max {
-					start = i
-					max = j - i + 1
-				}
-			}
-		}
-	}
+    // step.2 calculate
+    for i := length - 2; i >= 0; i-- {
+        for j := i + 2; j < length; j++ {
+            if stats[i+1][j-1] && s[i:i+1] == s[j:j+1] {
+                stats[i][j] = true
+                if j-i+1 > max {
+                    start = i
+                    max = j - i + 1
+                }
+            }
+        }
+    }
 
-	return s[start : start+max]
+    return s[start : start+max]
 }
 ```
