@@ -27,7 +27,9 @@ func longestPalindrome(s string) string {
 
 
 
-
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
 
 
 
