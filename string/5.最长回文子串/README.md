@@ -24,7 +24,6 @@ func longestPalindrome(s string) string {
 ## 解题思路
 动态规划，使用一个二维数组标记[i,j]是不是一个回文串
 
-![状态数组](./dp.svg?raw=true)
-[![alt](./dp.svg)](./dp.svg&sanitize=true)
+![状态数组](./dp.svg)
 
 ## 
