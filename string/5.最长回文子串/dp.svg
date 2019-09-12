@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="131 254 558 220" width="558" height="220">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="131 254 553 220" width="553" height="220">
   <defs>
     <font-face font-family="Helvetica Neue" font-size="12" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
       <font-face-src>
@@ -19,11 +19,11 @@
     </font-face>
   </defs>
   <metadata> Produced by OmniGraffle 7.11.2 
-    <dc:date>2019-09-12 04:55:09 +0000</dc:date>
+    <dc:date>2019-09-12 05:18:34 +0000</dc:date>
   </metadata>
   <g id="Canvas_1" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1" fill="none" stroke="none">
     <title>Canvas 1</title>
-    <rect fill="white" x="131" y="254" width="558" height="220"/>
+    <rect fill="white" x="131" y="254" width="553" height="220"/>
     <g id="Canvas_1: Layer 1">
       <title>Layer 1</title>
       <g id="Group_3">
@@ -405,7 +405,7 @@
       </g>
       <g id="Graphic_198">
         <text transform="translate(137 259)" fill="black">
-          <tspan font-family="PingFang SC" font-size="13" font-weight="400" fill="black" x="7247536e-19" y="14">计算</tspan>
+          <tspan font-family="PingFang SC" font-size="13" font-weight="400" fill="black" x="0" y="14">计算</tspan>
           <tspan font-family="Helvetica Neue" font-size="13" font-weight="400" fill="black" y="14"> i=j i=i+1</tspan>
         </text>
       </g>
@@ -431,7 +431,7 @@
         </g>
         <g id="Graphic_279">
           <rect x="654" y="410" width="21" height="21" fill="#f26077"/>
-          <rect x="654" y="410" width="21" height="21" stroke="#005c5d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect x="654" y="410" width="21" height="21" stroke="#b34400" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
           <text transform="translate(659 413.332)" fill="black">
             <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="1.612" y="11">P</tspan>
           </text>
@@ -791,7 +791,7 @@
       </g>
       <g id="Graphic_199">
         <text transform="translate(491 259)" fill="black">
-          <tspan font-family="PingFang SC" font-size="13" font-weight="400" fill="black" x="6.4935" y="14">P(i,j) = [i+1] [j-1] &amp;&amp; s[i] = s[j]   </tspan>
+          <tspan font-family="PingFang SC" font-size="13" font-weight="400" fill="black" x="0" y="14">P(i,j) = [i+1] [j-1] &amp;&amp; s[i] = s[j]   </tspan>
         </text>
       </g>
       <g id="Graphic_284">
