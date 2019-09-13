@@ -30,7 +30,7 @@ func longestPalindromeSubseq(s string) int {
 ## 解题思路
 动态规划，和leetcode.5类似
 
-![dp](./string/516.最长回文子序列/dp.svg)
+![dp](./dp.svg)
 
 ## 题解
 
