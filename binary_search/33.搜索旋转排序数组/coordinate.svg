@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="213 171 682 369" width="682" height="369">
+  <defs>
+    <font-face font-family="PingFang SC" font-size="14" panose-1="2 11 4 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-150" underline-thickness="58" slope="0" x-height="600" cap-height="860" ascent="1060.0021" descent="-340.0007" font-weight="400">
+      <font-face-src>
+        <font-face-name name="PingFangSC-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="14" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.11.2 
+    <dc:date>2019-09-13 15:25:36 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke-dasharray="none" fill="none" stroke="none" stroke-opacity="1" fill-opacity="1">
+    <title>Canvas 1</title>
+    <rect fill="white" x="213" y="171" width="682" height="369"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Line_2">
+        <path d="M 234.36855 306.70475 L 345.05307 307.49585 L 505.1986 306.70475" stroke="#7f8080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_3">
+        <line x1="606.3301" y1="306.70475" x2="877.1602" y2="306.70475" stroke="#7f8080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4">
+        <path d="M 370.99387 172.5 L 370.20277 283.18453 L 370.99387 443.3301" stroke="#7f8080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5">
+        <line x1="742.9554" y1="172.5" x2="742.9554" y2="443.3301" stroke="#7f8080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_6">
+        <line x1="213.79367" y1="278.0613" x2="363.10337" y2="222.44482" stroke="#7f8080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_8">
+        <line x1="382.02356" y1="347.4511" x2="428.7709" y2="322.366" stroke="#7f8080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_9">
+        <line x1="672.8959" y1="276.851" x2="711.5778" y2="258.5391" stroke="#7f8080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_10">
+        <line x1="753.9851" y1="406.3517" x2="869.8764" y2="318.17726" stroke="#7f8080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_11">
+        <circle cx="333.13086" cy="233.07569" r="3.63086674509653" fill="red"/>
+        <circle cx="333.13086" cy="233.07569" r="3.63086674509653" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_13">
+        <circle cx="808.9307" cy="364.2645" r="3.63086674509655" fill="red"/>
+        <circle cx="808.9307" cy="364.2645" r="3.63086674509655" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_15">
+        <text transform="translate(611.3301 454.5)" fill="black">
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="15">否则</tspan>
+          <tspan font-family="Helvetica Neue" font-size="14" font-weight="400" fill="black" y="15">mid</tspan>
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" y="15">在上图位置</tspan>
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="35">判断 target是否mid右边，</tspan>
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="55">如果在，start = mid</tspan>
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="75">否则，end = mid</tspan>
+        </text>
+      </g>
+      <g id="Graphic_17">
+        <text transform="translate(239.36855 454.5)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="14" font-weight="400" fill="black" x="0" y="15">mid </tspan>
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" y="15">在左边的时候(nums[start]&lt;nums[mid]):</tspan>
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="35">判断 target是否mid左边，</tspan>
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="55">如果在，end = mid</tspan>
+          <tspan font-family="PingFang SC" font-size="14" font-weight="400" fill="black" x="0" y="75">否则，start = mid</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
