@@ -29,6 +29,8 @@ func longestPalindrome(s string) int {
 
 ![array](./array.svg)
 
+##
+
 ```go
 func longestPalindrome(s string) int {
     
