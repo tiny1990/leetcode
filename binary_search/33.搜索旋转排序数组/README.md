@@ -20,6 +20,6 @@ func search(nums []int, target int) int {
 ## 题解
 
 ```go
-
-
+func search(nums []int, target int) int {
+}
 ```
