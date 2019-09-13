@@ -24,11 +24,28 @@ func longestPalindrome(s string) int {
 ```
 
 ## 解题思路
+如果是字符是偶数个，统计直接 +n  
+如果是字符是奇数个，判断如果最长是偶数个，需要 +1  
 
-
-## 
+![array](./array.svg)
 
 ```go
 func longestPalindrome(s string) int {
+    
+    counts := make([]int,128)
+    for _,char := range s {
+        counts[char]++
+    }
+    
+    ans := 0
+    for _,v := range counts {
+        ans += v / 2 * 2
+        
+        if v % 2 == 1 && ans % 2 == 0 {
+            ans++
+        }
+    }
+    
+    return ans
 }
 ```
