@@ -18,3 +18,18 @@ $ 现在开始，分Tag笔记做过的题
 125   |https://leetcode-cn.com/problems/longest-palindromic-substring/      | [验证回文串](./string/125.验证回文串)
 409   |https://leetcode-cn.com/problems/longest-palindrome/      | [最长回文串](./string/409.最长回文串)
 516   |https://leetcode-cn.com/problems/longest-palindromic-subsequence/   |  [最长回文子序列](./string/516.最长回文子序列)
+
+
+## 二分查找
+编号  | Leetcode | 题解
+------------ | ------------ | -------------
+29     |https://leetcode-cn.com/problems/divide-two-integers/      | [两数相除](./binary_search/29.两数相除)
+33     |https://leetcode-cn.com/problems/search-in-rotated-sorted-array/      | [搜索旋转排序数组](./binary_search/33.搜索旋转排序数组)
+
+
+
+
+
+
+
+
