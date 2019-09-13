@@ -24,7 +24,7 @@ func isPalindrome(s string) bool {
 ## 解题思路
 双指针，忽略字母的大小写，就全部tolower，判断只就下a-z然后判断回文
 
-## 
+## 题解
 
 ```go
 func isPalindrome(s string) bool {

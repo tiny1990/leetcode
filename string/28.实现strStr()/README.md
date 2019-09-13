@@ -24,7 +24,7 @@ func strStr(haystack string, needle string) int {
 
 ![图](./28.svg)
 
-## 
+## 题解
 
 ```go
 func strStr(haystack string, needle string) int {

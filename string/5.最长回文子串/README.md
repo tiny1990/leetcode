@@ -28,7 +28,7 @@ func longestPalindrome(s string) string {
 step.1 初始化 i=i i=i+1
 step.2 计算
 
-## 
+## 题解
 
 ```go
 func longestPalindrome(s string) string {
