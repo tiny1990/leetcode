@@ -24,9 +24,48 @@ func divide(dividend int, divisor int) int {
 ```
 
 ## 解题思路
+二分法不太容易想到  
+根据说明判断好边界，先判断出最终结果的正负号，然后将所有的数字转换正数  
+通过左移n位 (乘以n)，来缩小范围  
+被除数减去这个数
 
 ## 题解
 
 ```go
+func divide(dividend int, divisor int) int {
+    
+    if dividend == -(1<<31) && divisor == -1 {
+        return (1<<31)-1;
+    }
+    
+    isNegative := false
+    if (dividend < 0 && divisor > 0) || (dividend > 0 && divisor < 0) {
+        isNegative = true
+    }
+    
+    if dividend < 0 {
+        dividend = -dividend
+    }
+    if divisor < 0 {
+        divisor = -divisor
+    }
+    
+    result := 0
+    for dividend >= divisor {
+        
+        var shift uint
+        for dividend >= (divisor << shift) {
+            shift++
+        }
+        dividend -= divisor << (shift - 1)
+        result += 1 << (shift - 1)
+    }
+    
+    if isNegative {
+        return -result
+    }
+    
+    return result
+}
 
 ```
