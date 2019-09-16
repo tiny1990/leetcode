@@ -52,7 +52,10 @@ func mySqrt(x int) int {
             start = mid
         }
     }
-
+    if end > x / end {
+        return start
+    }
+    
     return end
 
 }
