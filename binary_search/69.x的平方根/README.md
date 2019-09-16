@@ -46,18 +46,16 @@ func mySqrt(x int) int {
         if mid == x / mid {
             return mid
         }
-        if mid > x / mid {
+        if mid > x / mid {  // 不容易理解可以 换成 mid * mid > x
             end = mid
         } else {
             start = mid
         }
     }
-    if end > x / end {
+    if end > x / end {  // end * end > x
         return start
     }
-    
     return end
-
 }
 
 ```
