@@ -26,7 +26,7 @@ $ 现在开始，分Tag笔记做过的题
 29     |https://leetcode-cn.com/problems/divide-two-integers/      | [两数相除](./binary_search/29.两数相除)
 33     |https://leetcode-cn.com/problems/search-in-rotated-sorted-array/      | [搜索旋转排序数组](./binary_search/33.搜索旋转排序数组)
 50     |https://leetcode-cn.com/problems/powx-n/      | [Pow(x, n)](./binary_search/50.Pow(x,n))
-
+69     |https://leetcode-cn.com/problems/sqrtx        | [69. x 的平方根](./binary_search/69.x的平方根)
 
 
 
