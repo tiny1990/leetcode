@@ -27,6 +27,7 @@ $ 现在开始，分Tag笔记做过的题
 33     |https://leetcode-cn.com/problems/search-in-rotated-sorted-array/      | [搜索旋转排序数组](./binary_search/33.搜索旋转排序数组)
 50     |https://leetcode-cn.com/problems/powx-n/      | [Pow(x, n)](./binary_search/50.Pow(x,n))
 69     |https://leetcode-cn.com/problems/sqrtx        | [x 的平方根](./binary_search/69.x的平方根)
+74     |https://leetcode-cn.com/problems/search-a-2d-matrix/        | [搜索二维矩阵](./binary_search/74.搜索二维矩阵)
 
 
 
