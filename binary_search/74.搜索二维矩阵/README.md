@@ -35,7 +35,7 @@ func searchMatrix(matrix [][]int, target int) bool {
 
 ## 解题思路
 和普通二分查找区别: 在二维数组中检索  
-计算中间的下标就可以了
+计算中间的下标就可以了  
 ![matrix](./matrix.svg)
 
 ## 题解
