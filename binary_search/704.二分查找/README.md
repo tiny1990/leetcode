@@ -22,10 +22,10 @@ func search(nums []int, target int) int {
 ## 解题思路
 
 ## 题解
-
+### 解法1.
 ```go
 func search(nums []int, target int) int {
-    
+
     start := 0
     end := len(nums) - 1
     
@@ -51,4 +51,27 @@ func search(nums []int, target int) int {
     return -1
 }
 
+```
+
+### 解法2.
+```go
+func search(nums []int, target int) int {
+    
+    start := 0
+    end := len(nums) - 1
+    
+    for start <= end {
+        mid := start + (end - start) / 2
+
+        if nums[mid] == target {
+            return mid
+        }
+        if nums[mid] > target {
+            end = mid - 1
+        } else {
+            start = mid + 1
+        }
+    }
+    return -1
+}
 ```
