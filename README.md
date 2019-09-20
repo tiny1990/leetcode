@@ -33,3 +33,4 @@ $ 现在开始，分Tag笔记做过的题
 240    |https://leetcode-cn.com/problems/search-a-2d-matrix-ii/                 |    [搜索二维矩阵 II](./binary_search/240.搜索二维矩阵II)
 278    |https://leetcode-cn.com/problems/first-bad-version/                     |    [第一个错误的版本](./binary_search/278.第一个错误的版本)
 704    |https://leetcode-cn.com/problems/binary-search/                         |    [二分查找](./binary_search/704.二分查找)
+852    |https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/        |    [山脉数组的峰顶索引](./binary_search/852.山脉数组的峰顶索引)
