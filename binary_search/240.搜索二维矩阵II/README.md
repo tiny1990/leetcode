@@ -23,13 +23,32 @@ func searchMatrix(matrix [][]int, target int) bool {
 ```
 
 ## 解题思路
-
+和搜索二维矩阵不太一样，没办法通过直接通过二分查找  
+![matrix](./matrix.svg)
 
 
 ## 题解
 
 ```go
 func searchMatrix(matrix [][]int, target int) bool {
+    row := len(matrix) - 1
+    if row == -1 {
+        return false
+    }
     
+    col := len(matrix[0]) - 1
+    colNum := 0
+    
+    for row >= 0 && colNum <= col {
+        if matrix[row][colNum] > target {
+            row--
+        } else if matrix[row][colNum] < target {
+            colNum++
+        } else {
+            return true
+        }
+    }
+    
+    return false
 }
 ```
