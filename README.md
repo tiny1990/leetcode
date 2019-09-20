@@ -32,3 +32,4 @@ $ 现在开始，分Tag笔记做过的题
 162    |https://leetcode-cn.com/problems/find-peak-element/                     |    [寻找峰值](./binary_search/162.寻找峰值)
 240    |https://leetcode-cn.com/problems/search-a-2d-matrix-ii/                 |    [搜索二维矩阵 II](./binary_search/240.搜索二维矩阵II)
 278    |https://leetcode-cn.com/problems/first-bad-version/                     |    [第一个错误的版本](./binary_search/278.第一个错误的版本)
+704    |https://leetcode-cn.com/problems/binary-search/                         |    [二分查找](./binary_search/704.二分查找)
