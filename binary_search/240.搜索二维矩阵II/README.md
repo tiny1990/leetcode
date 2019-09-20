@@ -24,6 +24,7 @@ func searchMatrix(matrix [][]int, target int) bool {
 
 ## 解题思路
 和搜索二维矩阵不太一样，没办法通过直接通过二分查找  
+左下 --> 右上 检索
 ![matrix](./matrix.svg)
 
 
