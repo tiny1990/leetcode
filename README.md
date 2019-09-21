@@ -39,4 +39,4 @@ $ 现在开始，分Tag笔记做过的题
 ## 二叉树 && 分治法
 编号  | Leetcode | 题解
 ------------ | ------------ | -------------
-94     |https://leetcode-cn.com/problems/binary-tree-inorder-traversal/         |     [二叉树的中序遍历](.//94.二叉树的中序遍历)
+94     |https://leetcode-cn.com/problems/binary-tree-inorder-traversal/         |     [二叉树的中序遍历](./binary_tree/94.二叉树的中序遍历)
