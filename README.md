@@ -34,3 +34,9 @@ $ 现在开始，分Tag笔记做过的题
 278    |https://leetcode-cn.com/problems/first-bad-version/                     |    [第一个错误的版本](./binary_search/278.第一个错误的版本)
 704    |https://leetcode-cn.com/problems/binary-search/                         |    [二分查找](./binary_search/704.二分查找)
 852    |https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/        |    [山脉数组的峰顶索引](./binary_search/852.山脉数组的峰顶索引)
+
+
+## 二叉树 && 分治法
+编号  | Leetcode | 题解
+------------ | ------------ | -------------
+94     |https://leetcode-cn.com/problems/binary-tree-inorder-traversal/         |     [二叉树的中序遍历](.//94.二叉树的中序遍历)
