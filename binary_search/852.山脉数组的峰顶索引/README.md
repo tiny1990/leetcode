@@ -30,10 +30,28 @@ func peakIndexInMountainArray(A []int) int {
 ```
 
 ## 解题思路
-
+二分查找，一直查询直到start+1,end相遇 
 ## 题解
 
 ```go
-
+func peakIndexInMountainArray(A []int) int {
+    
+    start := 0
+    end := len(A) - 1
+    
+    for start + 1 < end {
+        mid := start + (end - start) / 2
+        if A[mid] > A[mid+1] {
+            end = mid
+        } else {
+            start = mid
+        }
+    }
+    
+    if A[start] > A[end] {
+        return start
+    }
+    return end
+}
 
 ```
