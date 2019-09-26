@@ -55,14 +55,14 @@ func helper(root *TreeNode) *TreeNode {
         root.Left = nil
     }
 
-    if lNode != nil {
-        return lNode
-    }
-
     if rNode != nil {
         return rNode
     }
 
+    if lNode != nil {
+        return lNode
+    }
+    
     return root
 }
 

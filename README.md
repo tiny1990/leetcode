@@ -43,4 +43,4 @@ $ 现在开始，分Tag笔记做过的题
 98     |https://leetcode-cn.com/problems/validate-binary-search-tree/           |     [验证二叉搜索树](./binary_tree/98.验证二叉搜索树)
 104    |https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/          |     [二叉树的最大深度](./binary_tree/104.二叉树的最大深度)
 110    |https://leetcode-cn.com/problems/balanced-binary-tree/                  |     [平衡二叉树](./binary_tree/110.平衡二叉树)
-114    |https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/submissions/    |   [二叉树展开为链表](./binary_tree/114.二叉树展开为链表)
+114    |https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/    |     [二叉树展开为链表](./binary_tree/114.二叉树展开为链表)
