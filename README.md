@@ -41,3 +41,4 @@ $ 现在开始，分Tag笔记做过的题
 ------------ | ------------ | -------------
 94     |https://leetcode-cn.com/problems/binary-tree-inorder-traversal/         |     [二叉树的中序遍历](./binary_tree/94.二叉树的中序遍历)
 98     |https://leetcode-cn.com/problems/validate-binary-search-tree/           |     [验证二叉搜索树](./binary_tree/98.验证二叉搜索树)
+104    |https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/          |     [二叉树的最大深度](./binary_tree/104.二叉树的最大深度)
