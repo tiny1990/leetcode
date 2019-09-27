@@ -33,6 +33,7 @@ func flatten(root *TreeNode)  {
 ## 解题思路
 // divide conquer
 
+
 ## 题解
 
 ```go
