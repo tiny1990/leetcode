@@ -58,3 +58,4 @@ $ 现在开始，分Tag笔记做过的题
 102    |https://leetcode-cn.com/problems/binary-tree-level-order-traversal/        |  [二叉树的层次遍历](./breadth_first_search/102.二叉树的层次遍历)
 103    |https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/ |  [二叉树的锯齿形层次遍历](./breadth_first_search/103.二叉树的锯齿形层次遍历)
 107    |https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/     |  [二叉树的层次遍历 II](./breadth_first_search/107.二叉树的层次遍历II)
+297    |https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/    |  [二叉树的序列化与反序列化](./breadth_first_search/297.二叉树的序列化与反序列化)
