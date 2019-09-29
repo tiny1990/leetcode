@@ -56,4 +56,4 @@ $ 现在开始，分Tag笔记做过的题
 编号  | Leetcode | 题解
 ------------ | ------------ | -------------
 102    |https://leetcode-cn.com/problems/binary-tree-level-order-traversal/        |  [二叉树的层次遍历](./breadth_first_search/102.二叉树的层次遍历)
-103    |https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/ |  [二叉树的锯齿形层次遍历](./)
+103    |https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/ |  [二叉树的锯齿形层次遍历](./breadth_first_search/103.二叉树的锯齿形层次遍历)
