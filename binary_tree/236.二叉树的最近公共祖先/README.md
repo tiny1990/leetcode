@@ -48,10 +48,10 @@
     if l != nil  && r != nil {
         return root
     }
-    if l != nil {
+    if l == nil {
         return r
     }
-    if r != nil {
+    if r == nil {
         return l
     }
     return nil
