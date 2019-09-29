@@ -49,4 +49,4 @@ $ 现在开始，分Tag笔记做过的题
 230    |https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/         |     [二叉搜索树中第K小的元素](./binary_tree/230.二叉搜索树中第K小的元素)
 236    |https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/   | [二叉树的最近公共祖先](./binary_tree/236.二叉树的最近公共祖先)
 257    |https://leetcode-cn.com/problems/binary-tree-paths/                         | [二叉树的所有路径](./binary_tree/257.二叉树的所有路径)
-270    |https://leetcode-cn.com/problems/closest-binary-search-tree-value/          | [最接近的二叉搜索树值](./)
+270    |https://leetcode-cn.com/problems/closest-binary-search-tree-value/          | [最接近的二叉搜索树值](./binary_tree/270.最接近的二叉搜索树值)
