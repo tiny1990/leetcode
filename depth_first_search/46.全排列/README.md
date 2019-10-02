@@ -61,7 +61,7 @@ func help(nums []int, line []int, set map[int]int ,rst *[][]int) {
     }
 }
 
-// copy mao
+// copy map
 func copy(rst map[int]int) map[int]int {
     rtn := make(map[int]int, 0)
     for k, v := range rst {
