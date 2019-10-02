@@ -61,3 +61,8 @@ $ 现在开始，分Tag笔记做过的题
 133    |https://leetcode-cn.com/problems/clone-graph/                              |  [克隆图](./breadth_first_search/133.克隆图)
 200    |https://leetcode-cn.com/problems/number-of-islands/                        |  [岛屿数量](./breadth_first_search/200.岛屿数量)
 297    |https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/    |  [二叉树的序列化与反序列化](./breadth_first_search/297.二叉树的序列化与反序列化)
+
+## DFS
+编号  | Leetcode | 题解
+------------ | ------------ | -------------
+39     |https://leetcode-cn.com/problems/combination-sum/                          |  [组合总和](./depth_first_search/39.组合总和)
