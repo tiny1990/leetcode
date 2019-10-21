@@ -68,3 +68,4 @@ $ 现在开始，分Tag笔记做过的题
 39     |https://leetcode-cn.com/problems/combination-sum/                          |  [组合总和](./depth_first_search/39.组合总和)
 40     |https://leetcode-cn.com/problems/combination-sum-ii/                       |  [组合总和 II](./depth_first_search/40.组合总和II)
 46     |https://leetcode-cn.com/problems/permutations/                             |  [全排列](./depth_first_search/46.全排列)
+47     |https://leetcode-cn.com/problems/permutations-ii/                          |  [全排列 II](./depth_first_search/47.全排列II)
