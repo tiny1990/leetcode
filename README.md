@@ -70,3 +70,9 @@ $ 现在开始，分Tag笔记做过的题
 46     |https://leetcode-cn.com/problems/permutations/                             |  [全排列](./depth_first_search/46.全排列)
 47     |https://leetcode-cn.com/problems/permutations-ii/                          |  [全排列 II](./depth_first_search/47.全排列II)
 78     |https://leetcode-cn.com/problems/subsets/                                  |  [子集](./depth_first_search/78.子集)
+
+
+## 数组 & 链表
+编号  | Leetcode | 题解
+------------ | ------------ | -------------
+21   |https://leetcode-cn.com/problems/merge-two-sorted-lists/                     | [合并两个有序链表](./linkedlist_array/21.合并两个有序链表)
