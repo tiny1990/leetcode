@@ -17,9 +17,9 @@ func swapPairs(head *ListNode) *ListNode {
 ```
 
 ## 解题思路
-![交换图]](./linked.svg)
-## 题解
+![交换图](./linked.svg)
 
+## 题解
 ```go
 func swapPairs(head *ListNode) *ListNode {
 
