@@ -78,3 +78,4 @@ $ 现在开始，分Tag笔记做过的题
 21   |https://leetcode-cn.com/problems/merge-two-sorted-lists/                     | [合并两个有序链表](./linkedlist_array/21.合并两个有序链表)
 24   |https://leetcode-cn.com/problems/swap-nodes-in-pairs/                        | [两两交换链表中的节点](./linkedlist_array/24.两两交换链表中的节点)
 61   |https://leetcode-cn.com/problems/rotate-list/                                | [旋转链表](./linkedlist_array/61.旋转链表)
+86   |https://leetcode-cn.com/problems/partition-list/                             | [分隔链表](./linkedlist_array/86.分隔链表)
