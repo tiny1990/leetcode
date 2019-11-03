@@ -79,3 +79,4 @@ $ 现在开始，分Tag笔记做过的题
 24   |https://leetcode-cn.com/problems/swap-nodes-in-pairs/                        | [两两交换链表中的节点](./linkedlist_array/24.两两交换链表中的节点)
 61   |https://leetcode-cn.com/problems/rotate-list/                                | [旋转链表](./linkedlist_array/61.旋转链表)
 86   |https://leetcode-cn.com/problems/partition-list/                             | [分隔链表](./linkedlist_array/86.分隔链表)
+92   |https://leetcode-cn.com/problems/reverse-linked-list-ii/                     | [反转链表 II](./linkedlist_array/92.反转链表II)
