@@ -93,4 +93,4 @@ $ 现在开始，分Tag笔记做过的题
 编号  | Leetcode | 题解
 ------------ | ------------ | -------------
 27    |https://leetcode-cn.com/problems/remove-element/                            | [移除元素](./two_pointers/27.移除元素)
-42    |https://leetcode-cn.com/problems/trapping-rain-water/                       | [接雨水](./)
+42    |https://leetcode-cn.com/problems/trapping-rain-water/                       | [接雨水](./two_pointers/42.接雨水)
