@@ -84,3 +84,7 @@ $ 现在开始，分Tag笔记做过的题
 142  |https://leetcode-cn.com/problems/linked-list-cycle-ii/                       | [环形链表 II](./linkedlist_array/142.环形链表II)
 143  |https://leetcode-cn.com/problems/reorder-list/                               | [重排链表](./linkedlist_array/143.重排链表)
 148  |https://leetcode-cn.com/problems/sort-list/                                  | [排序链表](./linkedlist_array/148.排序链表)
+4    |https://leetcode-cn.com/problems/median-of-two-sorted-arrays/                | [寻找两个有序数组的中位数](./linkedlist_array/4.寻找两个有序数组的中位数)
+53   |https://leetcode-cn.com/problems/maximum-subarray/                           | [最大子序和](./linkedlist_array/53.最大子序和)
+88   |https://leetcode-cn.com/problems/merge-sorted-array/                         | [合并两个有序数组](./linkedlist_array/88.合并两个有序数组)
+349  |https://leetcode-cn.com/problems/intersection-of-two-arrays/                 | [两个数组的交集](./linkedlist_array/349.两个数组的交集)
