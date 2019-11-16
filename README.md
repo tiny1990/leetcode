@@ -81,3 +81,5 @@ $ 现在开始，分Tag笔记做过的题
 86   |https://leetcode-cn.com/problems/partition-list/                             | [分隔链表](./linkedlist_array/86.分隔链表)
 92   |https://leetcode-cn.com/problems/reverse-linked-list-ii/                     | [反转链表 II](./linkedlist_array/92.反转链表II)
 141  |https://leetcode-cn.com/problems/linked-list-cycle/                          | [环形链表](./linkedlist_array/141.环形链表)
+142  |https://leetcode-cn.com/problems/linked-list-cycle-ii/                       | [环形链表 II](./linkedlist_array/142.环形链表II)
+143  |https://leetcode-cn.com/problems/reorder-list/                               | [重排链表](./linkedlist_array/143.重排链表)
