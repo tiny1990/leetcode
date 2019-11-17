@@ -95,3 +95,4 @@ $ 现在开始，分Tag笔记做过的题
 27    |https://leetcode-cn.com/problems/remove-element/                            | [移除元素](./two_pointers/27.移除元素)
 42    |https://leetcode-cn.com/problems/trapping-rain-water/                       | [接雨水](./two_pointers/42.接雨水)
 125   |https://leetcode-cn.com/problems/valid-palindrome/                          | [验证回文串](./two_pointers/125.验证回文串)
+1     |https://leetcode-cn.com/problems/two-sum/                                   | [两数之和](./)
