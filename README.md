@@ -96,3 +96,4 @@ $ 现在开始，分Tag笔记做过的题
 42    |https://leetcode-cn.com/problems/trapping-rain-water/                       | [接雨水](./two_pointers/42.接雨水)
 125   |https://leetcode-cn.com/problems/valid-palindrome/                          | [验证回文串](./two_pointers/125.验证回文串)
 1     |https://leetcode-cn.com/problems/two-sum/                                   | [两数之和](./two_pointers/1.两数之和)
+15    |https://leetcode-cn.com/problems/3sum/                                      | [三数之和](./two_pointers/15.三数之和)
