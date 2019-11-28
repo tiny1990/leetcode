@@ -97,3 +97,5 @@ $ 现在开始，分Tag笔记做过的题
 125   |https://leetcode-cn.com/problems/valid-palindrome/                          | [验证回文串](./two_pointers/125.验证回文串)
 1     |https://leetcode-cn.com/problems/two-sum/                                   | [两数之和](./two_pointers/1.两数之和)
 15    |https://leetcode-cn.com/problems/3sum/                                      | [三数之和](./two_pointers/15.三数之和)
+16    |https://leetcode-cn.com/problems/3sum-closest/                              | [最接近的三数之和](./two_pointers/16.最接近的三数之和)
+167   |https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/          | [两数之和 II - 输入有序数组](./two_pointers/167.两数之和II-输入有序数组)
