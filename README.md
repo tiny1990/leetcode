@@ -103,3 +103,12 @@ $ 现在开始，分Tag笔记做过的题
 611   |https://leetcode-cn.com/problems/valid-triangle-number/                     | [有效三角形的个数](./two_pointers/611.有效三角形的个数)
 75    |https://leetcode-cn.com/problems/sort-colors/                               | [颜色分类](./two_pointers/75.颜色分类)
 905   |https://leetcode-cn.com/problems/sort-array-by-parity/                      | [按奇偶排序数组](./two_pointers/905.按奇偶排序数组)
+
+
+## Data Structure
+编号  | Leetcode | 题解
+------------ | ------------ | -------------
+128   |https://leetcode-cn.com/problems/longest-consecutive-sequence/最长连续序列   | [最长连续序列](./data_structure/128.最长连续序列)
+138   |https://leetcode-cn.com/problems/copy-list-with-random-pointer/            | [复制带随机指针的链表](./)
+146   |https://leetcode-cn.com/problems/lru-cache/                                | [LRU缓存机制](./data_structure/146.LRU缓存机制)
+674   |https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/| [最长连续递增序列](./)
