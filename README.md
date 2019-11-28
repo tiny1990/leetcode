@@ -111,4 +111,4 @@ $ 现在开始，分Tag笔记做过的题
 128   |https://leetcode-cn.com/problems/longest-consecutive-sequence/最长连续序列   | [最长连续序列](./data_structure/128.最长连续序列)
 138   |https://leetcode-cn.com/problems/copy-list-with-random-pointer/            | [复制带随机指针的链表](./)
 146   |https://leetcode-cn.com/problems/lru-cache/                                | [LRU缓存机制](./data_structure/146.LRU缓存机制)
-674   |https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/| [最长连续递增序列](./)
+674   |https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/| [最长连续递增序列](./data_structure/674.最长连续递增序列)
