@@ -113,3 +113,4 @@ $ 现在开始，分Tag笔记做过的题
 146   |https://leetcode-cn.com/problems/lru-cache/                                | [LRU缓存机制](./data_structure/146.LRU缓存机制)
 674   |https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/| [最长连续递增序列](./data_structure/674.最长连续递增序列)
 263   |https://leetcode-cn.com/problems/ugly-number/                              | [丑数](./data_structure/263.丑数)
+973   |https://leetcode-cn.com/problems/k-closest-points-to-origin/               | [最接近原点的 K 个点](./data_structure/973.最接近原点的K个点)
