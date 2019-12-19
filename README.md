@@ -118,4 +118,5 @@ $ 现在开始，分Tag笔记做过的题
 ## DP
 编号  | Leetcode | 题解
 ------------ | ------------ | -------------
-45    |https://leetcode-cn.com/problems/jump-game-ii/                             | [跳跃游戏 II](./dynamic_programming/45.跳跃游戏II.md)
+45    |https://leetcode-cn.com/problems/jump-game-ii/                             | [跳跃游戏 II](./dynamic_programming/45.跳跃游戏II)
+55    |https://leetcode-cn.com/problems/jump-game/                                | [跳跃游戏](./dynamic_programming/55跳跃游戏)
