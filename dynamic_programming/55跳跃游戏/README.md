@@ -30,6 +30,7 @@ func canJump(nums []int) bool {
 ```go
 func canJump(nums []int) bool {
     rst := make([]bool, len(nums))
+    rst[0] = true
     
     for i := 1; i < len(nums); i++ {
         for j := 0; j < i; j++ {
