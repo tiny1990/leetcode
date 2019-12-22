@@ -125,3 +125,4 @@ $ 现在开始，分Tag笔记做过的题
 64    |https://leetcode-cn.com/problems/minimum-path-sum/                         | [最小路径和](./dynamic_programming/64.最小路径和)
 70    |https://leetcode-cn.com/problems/climbing-stairs/                          | [爬楼梯](./dynamic_programming/70.爬楼梯)
 120   |https://leetcode-cn.com/problems/triangle/                                 | [三角形最小路径和](./dynamic_programming/120.三角形最小路径和)
+300   |https://leetcode-cn.com/problems/longest-increasing-subsequence/           | [最长上升子序列](./dynamic_programming/300.最长上升子序列)
